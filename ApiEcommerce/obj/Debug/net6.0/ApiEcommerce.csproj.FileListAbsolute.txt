@@ -58,3 +58,6 @@ C:\Users\THINH NGUYEN\Documents\myWork\C#_programming\ApiEcommerce\ApiEcommerce\
 C:\Users\THINH NGUYEN\Documents\myWork\C#_programming\ApiEcommerce\ApiEcommerce\obj\Debug\net6.0\ApiEcommerce.genruntimeconfig.cache
 C:\Users\THINH NGUYEN\Documents\myWork\C#_programming\ApiEcommerce\ApiEcommerce\obj\Debug\net6.0\ref\ApiEcommerce.dll
 C:\Users\THINH NGUYEN\Documents\myWork\C#_programming\ApiEcommerce\ApiEcommerce\bin\Debug\net6.0\efpt.config.json
+C:\Users\THINH NGUYEN\Documents\myWork\C#_programming\ApiEcommerce\ApiEcommerce\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\THINH NGUYEN\Documents\myWork\C#_programming\ApiEcommerce\ApiEcommerce\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\THINH NGUYEN\Documents\myWork\C#_programming\ApiEcommerce\ApiEcommerce\bin\Debug\net6.0\Newtonsoft.Json.dll

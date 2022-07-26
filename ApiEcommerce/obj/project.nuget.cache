@@ -1,10 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "8wCWomiKlDOb8ZmukYBTIM94V/H5bLgH18xBDLMg6NXFcqw5JtgDznoe/3ug+pfRtZ0nnddeIY/hAqjlSLWlUg==",
+  "dgSpecHash": "zWcaUdQlpaxzbRCcPPmV2qzC2cNZ/OVeVOJ8w0erOHYJ0f2fr8wB8Mb3+yxFQlCMw6b4i+wMMQ2FxPvCUa1Vug==",
   "success": true,
   "projectFilePath": "C:\\Users\\THINH NGUYEN\\Documents\\myWork\\C#_programming\\ApiEcommerce\\ApiEcommerce\\ApiEcommerce.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\THINH NGUYEN\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\THINH NGUYEN\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
+    "C:\\Users\\THINH NGUYEN\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
+    "C:\\Users\\THINH NGUYEN\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\THINH NGUYEN\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",
     "C:\\Users\\THINH NGUYEN\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\2.1.1\\microsoft.data.sqlclient.sni.runtime.2.1.1.nupkg.sha512",
     "C:\\Users\\THINH NGUYEN\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.6\\microsoft.entityframeworkcore.6.0.6.nupkg.sha512",
@@ -32,6 +34,7 @@
     "C:\\Users\\THINH NGUYEN\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
     "C:\\Users\\THINH NGUYEN\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
     "C:\\Users\\THINH NGUYEN\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\THINH NGUYEN\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
     "C:\\Users\\THINH NGUYEN\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
     "C:\\Users\\THINH NGUYEN\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
     "C:\\Users\\THINH NGUYEN\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
